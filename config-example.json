@@ -1,0 +1,10 @@
+{
+  "Database": {
+    "Database": "",
+    "Username": "",
+    "Password": "",
+    "Host"    : "",
+    "Dialect" : "mysql-sqlite-postgres-mssql",
+    "Storage" : ""
+  }
+}

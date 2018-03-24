@@ -1,0 +1,22 @@
+{
+  "name": "yanna-crawler",
+  "version": "0.1.0",
+  "description": "yanna - The open-source search engine.",
+  "main": "src/crawler.coffee",
+  "repository": "https://github.com/yanna-search/crawler.git",
+  "author": "MagicMarvMan <yanna@marvnet.de>",
+  "license": "GPL-2.0",
+  "scripts": {
+    "start": "coffee src/crawler.coffee"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cheerio": "^1.0.0-rc.2",
+    "coffeescript": "^2.2.3",
+    "mysql2": "^1.5.3",
+    "request": "^2.85.0",
+    "sequelize": "^4.37.4",
+    "sleep": "^5.1.1",
+    "url-parse": "^1.2.0"
+  }
+}
